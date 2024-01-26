@@ -6,7 +6,7 @@ import Container from './container/Container'
 import Button from './Button'
 import RTE from './RTE'
 import Input from './Input'
-import SignUp from './Signup'
+import Signup from './Signup'
 import Login from './Login'
 import PostForm from './post-form/PostForm'
 import PostCard from './PostCard'
@@ -23,7 +23,7 @@ export {
     Button,
     Input,
     RTE,
-    SignUp,
+    Signup,
     Login,
     PostForm,
     PostCard,
